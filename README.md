@@ -43,11 +43,11 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 
 07/02 [Introdução à Ciência de Dados e o Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T1__Introducao_Ciencia_de_Dados_e_ML.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T1__Introducao_Ciencia_de_Dados_e_ML_Lab.ipynb) 
 
-> [vídeo teoria](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220209_Teoria.mp4) | [vídeo lab]((http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220211_Lab.mp4)
+> [vídeo teoria](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220209_Teoria.mp4) | [vídeo lab](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220211_Lab.mp4)
 
 14/02 [EDA Exploração Inicial dos Dados](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T2_EDA.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T2_EDA_Lab.ipynb)
 
-> [vídeo teoria](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220216_Teoria.mp4) | [vídeo lab]((http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220215_Lab.mp4)
+> [vídeo teoria](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220216_Teoria.mp4) | [vídeo lab](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220215_Lab.mp4)
 
 >> [Complementar - Seleção e Organização de Dados com Pandas](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T2_Pandas.ipynb)
 
