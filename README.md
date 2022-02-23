@@ -4,7 +4,7 @@
 
 # Tecnologias da Informação e Comunicação - 1o Semestre 2022
 
-rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarracin@mackenzie.br | mario.santos@mackenzie.br
+rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarracin@mackenzie.br 
 
 <br />
 <br />
