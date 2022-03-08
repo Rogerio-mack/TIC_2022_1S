@@ -66,7 +66,7 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 21/02 [Testes de Hipóteses](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T3_Testes_de_Hipoteses.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T3_Testes_de_Hipoteses_Lab.ipynb)
 
-> vídeo teoria | vídeo lab
+> [vídeo teoria](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220222_Teoria.mp4) | [vídeo lab](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220223_Lab.mp4)
 
 28/02 **Carnaval**
 
@@ -75,7 +75,7 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 08/03 [Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear_Lab.ipynb)
 
-> vídeo teoria | vídeo lab
+> [vídeo teoria](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220304_Teoria.mp4) | [vídeo lab](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220308_Lab.mp4)
 
 14/03 [Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica.ipynb) | 
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica_Lab.ipynb) 
