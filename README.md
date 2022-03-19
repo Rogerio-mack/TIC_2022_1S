@@ -79,10 +79,12 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 
 14/03 **PROJETO INTEGRADO I**
 
-> Acesse [aqui](https://colab.research.google.com/github/Rogerio-mack/TIC_2022_1S/blob/main/Projeto_Integrado.ipynb) informações sobre o projeto do primeiro bimestre
+> Acesse [aqui](https://colab.research.google.com/github/Rogerio-mack/TIC_2022_1S/blob/main/Projeto_Integrado.ipynb) informações sobre o projeto do primeiro bimestre. Veja também as orientações em [vídeo](http://meusite.mackenzie.br/rogerio/videos/TIC_Projeto_I.mp4)
 
 14/03 [Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica.ipynb) | 
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica_Lab.ipynb) 
+
+> [vídeo teoria](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220315_Teoria.mp4) | [vídeo lab](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220316_Lab.mp4)
 
 >> [Aprendizado Supervisionado: Classificação X Regressão](https://c3.ai/introduction-what-is-machine-learning/supervised-learning/)
 
