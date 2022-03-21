@@ -93,6 +93,8 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 21/03 [K-Vizinhos mais Próximos](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn_Lab.ipynb)
 
+> [vídeo teoria](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220318_Teoria.mp4) | [vídeo lab](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220323_Lab.mp4)
+
 28/03 [Árvores de Decisão](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T8_Arvores_de_Decisao.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T8_Arvores_de_Decisao_Lab.ipynb)
 
