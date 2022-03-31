@@ -29,7 +29,7 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 
 <br />
 
-[Fórum Slack](https://join.slack.com/t/tic2022s1/shared_invite/zt-13341wrtv-oGdNMJwNzoW7cIb9LjP0UA) Todas as turmas (acesse antes de 06/03, depois disso o link expirará)
+[Fórum Slack](https://join.slack.com/t/tic2022s1/shared_invite/zt-16bgyng7o-3pw6rE0CmfQDyiHXkfjqzg) Todas as turmas (atualizado em 31.03) 
 
 <br />
 
