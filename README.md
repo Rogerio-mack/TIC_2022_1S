@@ -133,7 +133,7 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 
 ## Critério de Avaliação
 
-MI_1 = .5 N1 (Teoria e Lab) + .5 Exercicios 1 (Teoria e Lab) + .2 Projeto Integrado
+MI_1 = .5 N1 (Teoria e Lab) + .5 Exercicios 1 (Teoria e Lab) + .2 Projeto Integrado (opcional)
 
 MI_2 = .4 N2 (Teoria e Lab) + .4 Exercicios 2 (Teoria e Lab) + .2 Projeto Integrado
 
