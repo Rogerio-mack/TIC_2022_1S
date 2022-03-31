@@ -77,9 +77,9 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 
 > [vídeo teoria](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220304_Teoria.mp4) | [vídeo lab](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220308_Lab.mp4)
 
-14/03 **PROJETO INTEGRADO I**
+14/03 **PROJETO INTEGRADO I (O p c i o n a l)**
 
-> Acesse [aqui](https://colab.research.google.com/github/Rogerio-mack/TIC_2022_1S/blob/main/Projeto_Integrado.ipynb) informações sobre o projeto do primeiro bimestre. Veja também as orientações em [vídeo](http://meusite.mackenzie.br/rogerio/videos/TIC_Projeto_I.mp4)
+> Acesse [aqui](https://colab.research.google.com/github/Rogerio-mack/TIC_2022_1S/blob/main/Projeto_Integrado.ipynb) informações sobre o projeto do primeiro bimestre. Esse projeto é **opcional** sendo seu resultado acrescido na nota do bimestre. Veja também as orientações em [vídeo](http://meusite.mackenzie.br/rogerio/videos/TIC_Projeto_I.mp4)
 
 14/03 [Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica.ipynb) | 
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica_Lab.ipynb) 
@@ -98,9 +98,16 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 28/03 [Árvores de Decisão](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T8_Arvores_de_Decisao.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T8_Arvores_de_Decisao_Lab.ipynb)
 
+> [vídeo teoria](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220325_Teoria.mp4) | [vídeo lab](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220330_Lab.mp4)
+
 >> Complementar [Esquema Geral de Classificação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T10_Esquema_Geral_de_Classificacao.ipynb) | [Outros Modelos Supervisionados](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T10_Outros_Modelos_Sup.ipynb) 
 
 04/04 **AVALIAÇÃO INTERMEDIÁRIA I**
+
+> [MATERIAL DE APOIO PARA N1](https://colab.research.google.com/github/Rogerio-mack/TIC_2022_1S/blob/main/A1_Material_de_Apoio.ipynb)
+
+> ORIENTAÇÕES para N1 [vídeo parte 1](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220330_N11.mp4)
+[vídeo parte 2](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220330_N12.mp4) 
 
 11/04 [Kmédias](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias_Lab.ipynb)
