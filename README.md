@@ -106,7 +106,7 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 
 > [MATERIAL DE APOIO PARA N1](https://colab.research.google.com/github/Rogerio-mack/TIC_2022_1S/blob/main/A1_Material_de_Apoio.ipynb)
 
-> ORIENTAÇÕES para N1 [vídeo parte 1](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220330_N11.mp4)
+> ORIENTAÇÕES para N1 [vídeo parte 1](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220330_N11.mp4) | 
 [vídeo parte 2](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220330_N12.mp4) 
 
 11/04 [Kmédias](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias.ipynb) |
