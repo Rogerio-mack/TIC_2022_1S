@@ -10,7 +10,7 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 <br />
 
 <p align="right">
-  <img src="https://web.whatsapp.com/52a665fb-fce3-47a7-845b-097a6d1e022a" width="30%" align="center"/>
+  <img src="blob:https://web.whatsapp.com/52a665fb-fce3-47a7-845b-097a6d1e022a" width="30%" align="center"/>
 </p>
 
 ## Links dos Encontros Síncronos, Conteúdos e Fórum
