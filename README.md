@@ -9,6 +9,10 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 <br />
 <br />
 
+<p align="right">
+  <img src="https://web.whatsapp.com/52a665fb-fce3-47a7-845b-097a6d1e022a" width="30%" align="center"/>
+</p>
+
 ## Links dos Encontros Síncronos, Conteúdos e Fórum
 
 **Teoria 7O** *Acesse o Zoom* [aqui](https://zoom.us/j/93200048589?pwd=b0JwNGEwMnBsNHMxVTFCb252ZmhyQT09) 
@@ -129,7 +133,7 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 
 24/05 **AVALIAÇÃO INTERMEDIÁRIA II**
 
-30/05 **Projetos**
+30/05 **PROJETO N2 (ou HACKATHON ITAÚ-MACKENZIE)**
 
 13/06 **SUB** *14/06, Ver no Moodle* 
 
@@ -142,7 +146,7 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 
 MI_1 = .5 N1 (Teoria e Lab) + .5 Exercicios 1 (Teoria e Lab) + .2 Projeto Integrado (opcional)
 
-MI_2 = .4 N2 (Teoria e Lab) + .4 Exercicios 2 (Teoria e Lab) + .2 Projeto Integrado
+MI_2 = .4 N2 (Teoria e Lab) + .4 Exercicios 2 (Teoria e Lab) + .2 Projeto Integrado ou HACKATHON ITAÚ-MACKENZIE
 
 MF = .5 MI1 + .5 MI2 + partic (Avalia)
 
