@@ -116,6 +116,8 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 11/04 [Séries Temporais I](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/CDA_TimeSeries_1.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/CDA_TimeSeries_Lab1.ipynb)
 
+[Lab alternativo](https://colab.research.google.com/drive/1E22vcWxIod9J9gFt090OqmnMJP_zCJXn?usp=sharing)
+
 18/04 [Modelo ARIMA]
 
 [Kmédias](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias.ipynb) |
