@@ -113,7 +113,7 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 > ORIENTAÇÕES para N1 [vídeo parte 1](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220330_N11.mp4) | 
 [vídeo parte 2](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220330_N12.mp4) 
 
-11/04 [Séries Temporais I](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/CDA_TimeSeries_1.ipynb) |
+11/04 [Séries Temporais I](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/CDA_TimeSeries_1.ipynb)  
 
 18/04 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/CDA_TimeSeries_Lab1.ipynb)
 
