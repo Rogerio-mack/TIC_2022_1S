@@ -114,11 +114,10 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 [vídeo parte 2](http://meusite.mackenzie.br/rogerio/videos/TIC_Aula_20220330_N12.mp4) 
 
 11/04 [Séries Temporais I](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/CDA_TimeSeries_1.ipynb) |
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/CDA_TimeSeries_Lab1.ipynb)
 
-[Lab alternativo](https://colab.research.google.com/drive/1E22vcWxIod9J9gFt090OqmnMJP_zCJXn?usp=sharing)
+18/04 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/CDA_TimeSeries_Lab1.ipynb)
 
-18/04 [Modelo ARIMA]
+25/04 [Modelo ARIMA]
 
 [Kmédias](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T11_Kmedias_Lab.ipynb)
@@ -128,7 +127,7 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 
 >> Complementar [Exemplo Kmeans + HCluster](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/T12_EXTRA_kmeans_e_hcluster.ipynb)
 
-25/04 [Regras de Associação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules.ipynb) |
+[Regras de Associação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules_Lab.ipynb)
 
 02/05 [Sistemas de Recomendação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems_Lab.ipynb)
