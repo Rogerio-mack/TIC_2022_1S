@@ -152,7 +152,7 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 
 >> * Data Limite e **Entrega: 29.05**
 
-30/05 **Importante** [PROJETO N2](https://colab.research.google.com/github/Rogerio-mack/TIC_2022_1S/blob/main/TIC_Projeto_N2.ipynb)
+30/05 **Importante** [PROJETO N2 (*Obrigatório*)](https://colab.research.google.com/github/Rogerio-mack/TIC_2022_1S/blob/main/TIC_Projeto_N2.ipynb)
 
 13/06 **SUB** *14/06, Ver no Moodle* 
 
