@@ -127,23 +127,32 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 
 >> Complementar [Exemplo Kmeans + HCluster](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/T12_EXTRA_kmeans_e_hcluster.ipynb)
 
-<br>
+16/05 **Aqui os alunos escolhem um único tópico**, o outro será de auto estudo dos alunos:** 
 
-<br>
-
-[Regras de Associação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules.ipynb) |
-[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules_Lab.ipynb)
-
-[Sistemas de Recomendação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems_Lab.ipynb)
-
+[Sistemas de Recomendação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems_Lab.ipynb) 
+**OU**
 [Introdução às Redes Neurais](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais_Lab.ipynb)
 
+>> Conteúdos complementares apenas opcionais (sem atividades avaliativas ou nota) 
+>> [Regras de Associação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules.ipynb) |
+[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T13_AssociationRules_Lab.ipynb)
+|
+[Sistemas de Recomendação](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems_Lab.ipynb)
+|
 [Trabalhando com Textos NLP](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T19_NLP.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/T17_NLP_Lab.ipynb)
 
-24/05 **AVALIAÇÃO INTERMEDIÁRIA II**
+23/05 **AVALIAÇÃO INTERMEDIÁRIA II**
 
-30/05 **PROJETO N2 (ou HACKATHON ITAÚ-MACKENZIE)**
+> Revisão de todos os conteúdos em sala e dúvidas.
+
+>> * Liberação da prova, **online**
+
+>> * Teoria e Lab: **TEMPO LIMITADO a 2:00h**
+
+>> * Data Limite e **Entrega: 29.05**
+
+30/05 **Importante** [PROJETO N2](https://colab.research.google.com/github/Rogerio-mack/TIC_2022_1S/blob/main/TIC_Projeto_N2.ipynb)
 
 13/06 **SUB** *14/06, Ver no Moodle* 
 
