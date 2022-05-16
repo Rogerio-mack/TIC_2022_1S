@@ -144,13 +144,9 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 
 23/05 **AVALIAÇÃO INTERMEDIÁRIA II**
 
-> Revisão de todos os conteúdos em sala e dúvidas.
+>> * TEORIA: 25/05, *PRESENCIAL COM CONSULTA*
 
->> * Liberação da prova, **online**
-
->> * Teoria e Lab: **TEMPO LIMITADO a 2:00h**
-
->> * Data Limite e **Entrega: 29.05**
+>> * LAB: 25/05 Abertura, entrega até 29/05 no Moodle. 2h para concluir o questionário
 
 30/05 **Importante** [PROJETO N2 (*Obrigatório*)](https://colab.research.google.com/github/Rogerio-mack/TIC_2022_1S/blob/main/TIC_Projeto_N2.ipynb)
 
