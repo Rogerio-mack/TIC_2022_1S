@@ -146,6 +146,8 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 
 >> * TEORIA: 25/05, *PRESENCIAL COM CONSULTA*
 
+>>>> [Gabarito das Provas de Teoria](https://github.com/Rogerio-mack/TIC_2022_1S/tree/main/A2_2022S1_gabarito)
+
 >> * LAB: 25/05 Abertura, entrega até 29/05 no Moodle. 2h para concluir o questionário
 
 30/05 **Importante** [PROJETO N2 (*Obrigatório*)](https://colab.research.google.com/github/Rogerio-mack/TIC_2022_1S/blob/main/TIC_Projeto_N2.ipynb)
