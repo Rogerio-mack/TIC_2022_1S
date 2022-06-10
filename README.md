@@ -152,9 +152,9 @@ rogerio.oliveira@mackenzie.br | gustavorocha.silva@mackenzie.br | orlando.albarr
 
 30/05 **Importante** [PROJETO N2 (*Obrigatório*)](https://colab.research.google.com/github/Rogerio-mack/TIC_2022_1S/blob/main/TIC_Projeto_N2.ipynb)
 
-13/06 **SUB** *14/06, Ver no Moodle* 
+13/06 **SUB** *15/06, Ver no Moodle* 
 
-20/06 **PROVA FINAL** *21/06, Ver no Moodle*
+20/06 **PROVA FINAL** *22/06, Ver no Moodle*
 
 
 <br />
